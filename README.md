@@ -29,3 +29,5 @@ in the input video.
 [This video](https://www.youtube.com/watch?v=TYgIBV_C-SY) was made using this
 code. Note that the effects during the colored parts are not done through style
 transfer. The raw result can be seen during the black and white parts.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TYgIBV_C-SY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
