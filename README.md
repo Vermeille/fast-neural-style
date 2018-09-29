@@ -26,6 +26,6 @@ in the input video.
 
 # Demo
 
-![This video](https://www.youtube.com/watch?v=TYgIBV_C-SY) was made using this
+[This video](https://www.youtube.com/watch?v=TYgIBV_C-SY) was made using this
 code. Note that the effects during the colored parts are not done through style
 transfer. The raw result can be seen during the black and white parts.
