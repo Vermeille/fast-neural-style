@@ -1,6 +1,6 @@
 # Fast Style Transfer
 
-A Fast Style Transfer based on Pytorch.
+A Fast Style Transfer based on Johson et al (2016) implemented with Pytorch.
 
 # Usage
 
